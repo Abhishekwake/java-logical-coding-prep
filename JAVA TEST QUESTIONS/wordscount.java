@@ -1,3 +1,5 @@
+// 2. "Count the total number of characters (excluding spaces) and words in a given string."
+
 class Demo {
     public static void main(String[] args) {
 
